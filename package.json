@@ -1,0 +1,19 @@
+{
+    "name": "@logicfen/yolikers-impulsando",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a yolikers-impulsando",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfen/yolikers-impulsando.git"
+    },
+    "author": "Corpimex",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://inuchat.net/es/yolikers/"
+    },
+    "homepage": "https://inuchat.net/es/yolikers/"
+}
